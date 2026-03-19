@@ -1,5 +1,5 @@
 # vitoriab010
-<h1>&#128075; Olá, me chamo Vitoria!</h1>
+<h1 style="color: ##8C73F0;"> Olá, me chamo Vitoria!</h1>
 
 <h3>Sobre mim:</h3>
 <ul>
