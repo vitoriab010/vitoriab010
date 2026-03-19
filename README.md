@@ -20,6 +20,7 @@
      <img align="center" alt="Vi-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
      <img align="center" alt="Vi-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />  
     <img align="center" alt="Vi-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> 
+    <img align="center" alt="Vi-FIGMA" height="30" width="40" src="http://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
 </div>
 
 ##
