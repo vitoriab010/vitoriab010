@@ -4,7 +4,7 @@
 <h3>Sobre mim:</h3>
 <ul>
     <li>Cursando Desenvolvimento de Sistemas 💡</li>
-    <li>Desenvolvedora Front End 💻</li>
+    <li>Desenvolvedora full-stack</li>
 </ul>
 
 ##
@@ -29,5 +29,5 @@
 <div>
      <a href="https://www.linkedin.com/in/vitoria-brenda-almeida-b228073a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href=mailto:vitoriakarina91@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://rafa-py.github.io/portfolio-redisign/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+ 
 </div>
