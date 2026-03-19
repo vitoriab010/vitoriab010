@@ -16,7 +16,7 @@
       <img align="center" alt="Vi-PHP" height="30" width="40" src="https://img.icons8.com/?size=256&id=fAMVO_fuoOuC&format=png">
   <img align="center" alt="Vi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vi-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />         
+  <img align="center" alt="Vi-FIGMA" height="30" width="40" src="http://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
 </div>
 
 ##
