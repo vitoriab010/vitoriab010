@@ -3,8 +3,9 @@
 
 <h3>Sobre mim:</h3>
 <ul>
-    <li>Cursando Desenvolvimento de Sistemas 💡</li>
-    <li>Desenvolvedora full-stack</li>
+    <li>Cursando Desenvolvimento de Sistemas 2/3</li>
+    <li>Desenvolvedora front end</li>
+    <li>Iniciando no back end</li>
 </ul>
 
 ##
