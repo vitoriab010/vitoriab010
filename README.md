@@ -3,8 +3,9 @@
 
 <h3>Sobre mim:</h3>
 <ul>
-    <li>Cursando Desenvolvimento de Sistemas 2/3</li>
+    <li>Cursando Desenvolvimento de Sistemas na ETEC Zona Leste2/3</li>
     <li>Desenvolvedora front end</li>
+    <li>Interessada em aprender coisas novas</li>
 </ul>
 
 ##
