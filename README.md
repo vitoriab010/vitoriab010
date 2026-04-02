@@ -1,5 +1,5 @@
 # vitoriab010
-<h1> Helo, my name's Vitoria!</h1>
+<h1> Hello, my name's Vitoria!</h1>
 
 <h3>About me:</h3>
 <ul>
