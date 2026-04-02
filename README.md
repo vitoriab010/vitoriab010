@@ -1,16 +1,16 @@
 # vitoriab010
-<h1 style="color: #8a2be2;"> Olá, me chamo Vitoria!</h1>
+<h1 style="color: #8a2be2;"> Helo, my name's Vitoria!</h1>
 
-<h3>Sobre mim:</h3>
+<h3>About me:</h3>
 <ul>
-    <li>Cursando Desenvolvimento de Sistemas na ETEC Zona Leste2/3</li>
-    <li>Desenvolvedora front end</li>
-    <li>Interessada em aprender coisas novas</li>
+    <li>I'm studying Systems development at ETEC Zona Leste 2/3</li>
+    <li>Full-stack dev in development </li>
+    <li>Interested in learning new things</li>
 </ul>
 
 ##
 
-<h3>Tecnologias que uso no dia a dia:</h3>
+<h3>Technologys that i use in daily life :</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vi-Python" height="30" width="40" src="https://img.icons8.com/?size=256&id=pIJdjOoL6KfU&format=png">
@@ -32,8 +32,3 @@
      <a href=mailto:vitoriakarina91@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
